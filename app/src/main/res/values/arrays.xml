@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="items">
+        <item>строка 1</item>
+        <item>строка 2</item>
+        <item>строка 3</item>
+        <item>строка 4</item>
+        <item>строка 5</item>
+        <item>строка 6</item>
+        <item>строка 7</item>
+        <item>строка 8</item>
+        <item>строка 9</item>
+    </array>
+</resources>
