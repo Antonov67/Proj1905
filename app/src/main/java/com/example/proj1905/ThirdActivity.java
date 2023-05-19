@@ -24,7 +24,7 @@ public class ThirdActivity extends AppCompatActivity {
         View.OnClickListener listener = new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                ((Button)(view)).setText("***");
+                ((Button)(view)).setText(R.string.after_click);
             }
         };
 
